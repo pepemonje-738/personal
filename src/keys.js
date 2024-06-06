@@ -1,9 +1,9 @@
 "use strict";
 exports.__esModule = true;
 var database = {
-    host: 'localhost',
+    host: 'monorail.proxy.rlwy.net',
     user: 'root',
-    password: '',
-    database: 'api'
+    password: 'nSZjfzbLrdViZCebuhCVEDjnSxOsVcyG',
+    database: 'railway'
 };
 exports["default"] = database;
